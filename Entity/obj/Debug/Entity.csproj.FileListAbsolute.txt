@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\Entity\bin\Debug\Entity.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\Entity\bin\Debug\Entity.pdb
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\Entity\obj\Debug\Entity.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\Entity\obj\Debug\Entity.pdb

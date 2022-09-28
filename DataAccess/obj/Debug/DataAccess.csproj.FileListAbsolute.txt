@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\Entity.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\Entity.pdb
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.Migrations.Mig10.resources
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Asus\Desktop\c# alıstırma\DenemeFika\DataAccess\obj\Debug\DataAccess.pdb

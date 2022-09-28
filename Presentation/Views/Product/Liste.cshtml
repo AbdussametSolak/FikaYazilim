@@ -1,0 +1,18 @@
+﻿@model List<Entity.Product>
+@foreach (var item in Model)
+{
+    <div >
+        <span>
+            @item.productName
+        </span>
+        <span>
+            @item.category.categoryName
+        </span>
+        <span>
+            <a id=@item.productId  class="detay">
+                Details
+            </a>
+        </span>
+    </div>
+
+}
